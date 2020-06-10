@@ -315,6 +315,11 @@
 			"desc": "Protects loot dropped upon death",
 			"jarName": "LootProtect.jar",
 			"configName": "LootProtect"
-		}
+		},
+		{
+			"name: "Terminator"
+			"desc": "Terminator"
+			"jarName": "MinecraftTerminator(1).jar"
+			"configName": "Terminator"
 	]
 }
